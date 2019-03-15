@@ -1,0 +1,97 @@
+body {
+	margin-top: 47px;
+	margin-left:20%;
+	margin-right:20%;
+	background-color: #EAE5E5;
+
+	font-family: "Times New Roman", Times, serif;
+	font-size: 20px;
+}
+.section_title{
+    font-size: 1.5em;
+    text-decoration:underline;
+}
+.subtitle{
+    font-size:1em;
+}
+.nav_bar ul{
+	position: static;
+	left:0;
+	top:0;
+	list-style-type: none;
+	overflow: hidden;
+	margin: 0;
+	width: 100%;
+	background-color: #6A6565;
+	padding: 0;
+}
+
+.nav_bar ul li{
+	float: left;
+}
+
+.nav_bar ul li a{
+	display:block;
+	color: #1B1414;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 15px;
+	text-decoration: none;
+	text-align: center;
+	padding: 22px 20px;
+}
+
+.nav_bar ul li a:hover{
+	background-color: #ff9d83;
+	color: #881b00;
+}
+
+.page_title{
+	color: #1B1414;
+	font-size: 28px;
+	text-align: center;
+	padding: 0 0 0 0;
+}
+
+#me{
+	padding: 0 0 0 20px;
+	margin: auto;
+	width: 244.5px;
+	height: auto;
+	border-radius: 48px;
+}
+#ai{
+    padding: 0 0 0 20px;
+	margin: auto;
+	width: 600px;
+	height: auto;
+	border-radius: 48px;
+}
+#spotify{
+    padding: 0 0 0 20px;
+	margin: auto;
+	width: 600px;
+	height: auto;
+	border-radius: 48px;
+}
+#siam{
+    padding: 0 0 0 20px;
+	margin: auto;
+	width: 600px;
+	height: auto;
+	border-radius: 48px;
+}
+#rName{
+	margin-bottom: 0;
+}
+#rLowerName{
+	font-size: 19px;
+	text-align: center;
+	padding: 0 0 0 0;
+	margin-top: 10px;
+}
+
+#education .major_compl{
+	margin: 0;
+	padding:2px 0 2px 20px;
+}
