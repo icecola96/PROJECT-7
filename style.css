@@ -66,9 +66,8 @@ h3 {
 #pics{
 	padding: 0 0 0 20px;
 	margin: auto;
-	width: 244.5px;
+	width: auto%;
 	height: auto;
-	border-radius: 48px;
 }
 
 #header{
