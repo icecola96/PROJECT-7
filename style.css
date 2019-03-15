@@ -2,10 +2,21 @@ body {
 	margin-top: 47px;
 	margin-left:20%;
 	margin-right:20%;
-	background-color: #EAE5E5;
+	background-color: #FFFFFF;
 
 	font-family: "Times New Roman", Times, serif;
 	font-size: 20px;
+}
+
+h1 {
+    font-weight: bold;
+    color: 000000;
+}
+h2 {
+    color: 000000;
+}
+h3 {
+    color: 000000;
 }
 .section_title{
     font-size: 1.5em;
@@ -14,7 +25,7 @@ body {
 .subtitle{
     font-size:1em;
 }
-.nav_bar ul{
+.nav ul{
 	position: static;
 	left:0;
 	top:0;
@@ -22,76 +33,49 @@ body {
 	overflow: hidden;
 	margin: 0;
 	width: 100%;
-	background-color: #6A6565;
+	background-color: #FFFFFF;
 	padding: 0;
 }
 
-.nav_bar ul li{
-	float: left;
+.nav ul li{
+	float: center;
 }
 
-.nav_bar ul li a{
+.nav ul li a {
 	display:block;
-	color: #1B1414;
-	font-family: Arial, Helvetica, sans-serif;
+	color: #DCD0C0;
+	font-family: 'Oswald', sans-serif;
 	font-weight: bold;
-	font-size: 15px;
-	text-decoration: none;
+	font-size: 14px;
 	text-align: center;
 	padding: 22px 20px;
 }
 
-.nav_bar ul li a:hover{
-	background-color: #ff9d83;
+.nav ul li a:hover{
+	background-color: #FFFFFF;
 	color: #881b00;
 }
 
 .page_title{
-	color: #1B1414;
+	color: #000000;
 	font-size: 28px;
 	text-align: center;
 	padding: 0 0 0 0;
 }
 
-#me{
+#pics{
 	padding: 0 0 0 20px;
 	margin: auto;
 	width: 244.5px;
 	height: auto;
 	border-radius: 48px;
 }
-#ai{
+
+#header{
     padding: 0 0 0 20px;
 	margin: auto;
 	width: 600px;
 	height: auto;
 	border-radius: 48px;
-}
-#spotify{
-    padding: 0 0 0 20px;
-	margin: auto;
-	width: 600px;
-	height: auto;
-	border-radius: 48px;
-}
-#siam{
-    padding: 0 0 0 20px;
-	margin: auto;
-	width: 600px;
-	height: auto;
-	border-radius: 48px;
-}
-#rName{
-	margin-bottom: 0;
-}
-#rLowerName{
-	font-size: 19px;
-	text-align: center;
-	padding: 0 0 0 0;
-	margin-top: 10px;
 }
 
-#education .major_compl{
-	margin: 0;
-	padding:2px 0 2px 20px;
-}
