@@ -70,16 +70,19 @@ h3 {
 #pics {
 	padding: 0 0 0 20px;
 	margin: auto;
-	width: 500;
-	height: 600;
+	width: 500px;
+	height: 600px;
+	float: center;
+
 }
 
 iframe {
     margin-right: auto;
     margin-left: auto;
     display: block;
-    width: 560
-    height: 315;
+    width: 560px;
+    height: 315px;
+    float: center;
     text-align: center;
 }
 
