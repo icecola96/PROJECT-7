@@ -67,11 +67,20 @@ h3 {
 	padding: 0 0 0 0;
 }
 
-#pics{
+#pics {
 	padding: 0 0 0 20px;
 	margin: auto;
-	width: auto;
-	height: auto;
+	width: 500;
+	height: 600;
+}
+
+iframe {
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    width: 560
+    height: 315;
+    text-align: center;
 }
 
 #header{
