@@ -21,7 +21,7 @@ h3 {
     font-size: 1.5em;
     text-decoration:none;
     color: #DCD0C0;
-
+    float: center;
 }
 
 .section_title{
@@ -74,12 +74,13 @@ h3 {
 	padding: 0 0 0 0;
 }
 
-#pics {
-	padding: 0 0 0 20px;
+img {
 	margin: auto;
 	width: 500px;
 	height: 600px;
-	float: center;
+	text-align: center;
+	box-shadow: 0 0 10px#000;
+    border:5px solid #DCD0C0;
 
 }
 
