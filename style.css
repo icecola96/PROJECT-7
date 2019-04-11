@@ -27,6 +27,7 @@ h3 {
     text-decoration:none;
     color: #DCD0C0;
     float: center;
+    text-shadow: black 0 1px;
 }
 
 .section_title{
