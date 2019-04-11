@@ -17,6 +17,13 @@ h3 {
     color: #000000;
 }
 
+.page1_title{
+    font-size: 1.5em;
+    text-decoration:none;
+    color: #DCD0C0;
+
+}
+
 .section_title{
     font-size: 1.5em;
     text-decoration:underline;
