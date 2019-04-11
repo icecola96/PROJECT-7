@@ -11,6 +11,7 @@ body {
 h1 {
     font-weight: bold;
     color: #000000;
+    text-align: center;
 }
 h2 h3{
     color: #000000;
@@ -48,6 +49,9 @@ h2 h3{
 	text-align: center;
 	padding: 22px 20px;
 	float: center;
+	text-align: center;
+	list-style-type: none;
+
 }
 
 .nav ul li a:hover{
