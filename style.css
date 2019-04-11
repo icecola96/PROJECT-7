@@ -41,13 +41,14 @@ h3 {
 */
 
 .nav ul li a {
+	position: static;
 	display:block;
 	color: #DCD0C0;
 	font-family: 'Oswald', sans-serif;
 	font-weight: bold;
 	font-size: 14px;
 	text-align: center;
-	padding: 22px 20px;
+	padding: 0;
 	/*float: center;
 	text-align: center; */
 	list-style-type: none;
