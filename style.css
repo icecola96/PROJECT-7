@@ -16,7 +16,6 @@ h1 {
 h4 {
     font-weight: bold;
     text-align: center;
-    float: center;
 }
 h3 {
     color: #000000;
@@ -48,7 +47,6 @@ h3 {
 	width: 100%;
 	background-color: #FFFFFF;
 	padding: 0;
-	float: center;
 	text-align: center;
 }
 
@@ -88,7 +86,6 @@ img {
 	text-align: center;
 	box-shadow: 0 0 10px#000;
     border:5px solid #DCD0C0;
-    float: center;
 
 }
 
@@ -99,7 +96,6 @@ iframe {
     display: block;
     width: 560px;
     height: 315px;
-    float: center;
     text-align: center;
 }
 
