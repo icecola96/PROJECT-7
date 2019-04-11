@@ -23,6 +23,7 @@ h2 h3{
 .subtitle{
     font-size:1em;
 }
+/*
 .nav ul{
 	position: static;
 	left:0;
@@ -34,7 +35,9 @@ h2 h3{
 	background-color: #FFFFFF;
 	padding: 0;
 	float: center;
+	text-align: center;
 }
+*/
 
 .nav ul li a {
 	display:block;
@@ -44,6 +47,7 @@ h2 h3{
 	font-size: 14px;
 	text-align: center;
 	padding: 22px 20px;
+	float: center;
 }
 
 .nav ul li a:hover{
